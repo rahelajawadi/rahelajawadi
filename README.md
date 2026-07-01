@@ -33,12 +33,14 @@ Hi! I'm Rahela — someone who loves turning messy data into clear, useful stori
 
 ---
 
+
 ### 🚀 Featured Projects
 
 | Project | Description | Tech |
 | --- | --- | --- |
 | [Corn Disease Prediction (Deep Learning)](https://github.com/rahelajawadi/Corn-Disease-Prediction-Deep-Learning-Project-) | Image classification of 4 corn disease categories using a CNN, deployed via a Flask API — **95% accuracy**. | Python, TensorFlow, Keras, Flask |
 | [Mental Health in Tech Workplace](https://github.com/rahelajawadi/Analysis-of-Mental-Health-Disorders-in-Tech-Workplace) | Analysis of attitudes toward mental health and the frequency of disorders in the tech workplace. | R |
+| [Sales Data Analysis & Visualization (Python)](https://github.com/rahelajawadi/Sales-Data-Analysis-Visualization-in-Python-) | Exploratory analysis of 12 months of sales data — cleaning, outlier/normality checks, and answering five business questions (best sales month, top city, and more). | Python, pandas, Matplotlib |
 | [Sales Analysis — Power BI](https://github.com/rahelajawadi/Sale-Analysis-Power-BI) | Data visualization reports and DAX functions for interactive sales dashboards. | Power BI, DAX |
 | [Job Management System (Scrum)](https://github.com/rahelajawadi/Job-Managment-System-Scrum-Project-) | A job management system built following the Scrum methodology. | Python |
 | [Hospital Management System](https://github.com/rahelajawadi/Hospital-Managment-System) | A desktop hospital management application with a JavaFX interface. | Java, JavaFX |
