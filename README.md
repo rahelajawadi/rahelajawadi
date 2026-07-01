@@ -1,6 +1,6 @@
-<h1 align="center">Hi there, I'm Rahela Jawadi 👋</h1>
+<h1 align="left">Hi there, I'm Rahela Jawadi 👋</h1>
 
-<p align="center">
+<p align="left">
   <b>Data Analyst · Machine Learning Enthusiast </b><br>
   
 </p>
