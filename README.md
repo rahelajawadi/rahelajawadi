@@ -1,8 +1,8 @@
 <h1 align="center">Hi there, I'm Rahela Jawadi 👋</h1>
 
 <p align="center">
-  <b>Data Scientist · Machine Learning Enthusiast · Software Developer</b><br>
-  📍 Kentucky, United States
+  <b>Data Analyst · Machine Learning Enthusiast · Software Developer</b><br>
+  📍 Austin, United States
 </p>
 
 ---
