@@ -13,7 +13,7 @@ Hi! I'm Rahela - someone who loves turning messy data into clear, useful stories
 
 - 🌱 I enjoy building and delivering solutions with **data, statistics and machine learning techniques**, from deep learning models to interactive analytics dashboards.
 - 🧠 My work spans **statistical data analysis/visualization**, **data management**, **software/web development**, **computer vision (CNNs)**.
-- 💬 Happy to chat about **data analytics, AI/ML, emerging tech, Python, R, TensorFlow/Keras, Flask, Power BI, and data storytelling** — always excited to learn more and collaborate.
+- 💬 Happy to chat about anything and everything related to **analytics, AI/ML, and emerging tech - always excited to learn more and collaborate.
 - 📫 Reach me anytime at **[raha.jawadi@gmail.com](mailto:raha.jawadi@gmail.com)**
 - 🔗 LinkedIn: **[rahela-jawadi](https://www.linkedin.com/in/rahela-jawadi-190537261/)**
 
@@ -41,24 +41,9 @@ Hi! I'm Rahela - someone who loves turning messy data into clear, useful stories
 | [Corn Disease Prediction (Deep Learning)](https://github.com/rahelajawadi/Corn-Disease-Prediction-Deep-Learning-Project-) | Image classification of 4 corn disease categories using a CNN, deployed via a Flask API — **95% accuracy**. | Python, TensorFlow, Keras, Flask |
 | [Mental Health in Tech Workplace](https://github.com/rahelajawadi/Analysis-of-Mental-Health-Disorders-in-Tech-Workplace) | Analysis of attitudes toward mental health and the frequency of disorders in the tech workplace. | R |
 | [Sales Data Analysis & Visualization (Python)](https://github.com/rahelajawadi/Sales-Data-Analysis-Visualization-in-Python-) | Exploratory analysis of 12 months of sales data — cleaning, outlier/normality checks, and answering five business questions (best sales month, top city, and more). | Python, pandas, Matplotlib |
-| [Sales Analysis — Power BI](https://github.com/rahelajawadi/Sale-Analysis-Power-BI) | Data visualization reports and DAX functions for interactive sales dashboards. | Power BI, DAX |
+| [Sales Analysis — Power BI](https://github.com/rahelajawadi/Sale-Analysis-Power-BI) | Developed an interactive sales dashboard in Power BI using DAX for data modeling, KPI calculations, and dynamic visualizations.
 | [Job Management System (Scrum)](https://github.com/rahelajawadi/Job-Managment-System-Scrum-Project-) | A job management system built following the Scrum methodology. | Python |
 | [Hospital Management System](https://github.com/rahelajawadi/Hospital-Managment-System) | A desktop hospital management application with a JavaFX interface. | Java, JavaFX |
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=rahelajawadi&show_icons=true&theme=tokyonight&hide_border=true"
-    height="170"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahelajawadi&layout=compact&theme=tokyonight&hide_border=true"
-    height="170"
-  />
-</p>
 
 ---
 
