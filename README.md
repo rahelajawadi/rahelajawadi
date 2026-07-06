@@ -9,11 +9,11 @@
 
 ### 🔭 About Me
 
-Hi! I'm Rahela - someone who loves turning messy data into clear, useful stories for impactful data-driven decision making 😊
+Hi! I'm Rahela - someone who loves turning messy data into clear, useful stories for meaningful data-driven decision making 😊
 
 - 🌱 I enjoy building things with **data and machine learning**, from deep learning models to interactive analytics dashboards.
-- 🧠 My work spans **computer vision (CNNs)**, **statistical analysis**, **data visualization**, and **full-stack software projects**.
-- 💬 Happy to chat about **Python, R, TensorFlow/Keras, Flask, Power BI, and data storytelling** — always excited to learn and collaborate.
+- 🧠 My work spans **statistical analysis**, **computer vision (CNNs)**, **data visualization**, and **full-stack software projects**.
+- 💬 Happy to chat about **data analytics, AI/ML, emerging tech, Python, R, TensorFlow/Keras, Flask, Power BI, and data storytelling** — always excited to learn more and collaborate.
 - 📫 Reach me anytime at **[raha.jawadi@gmail.com](mailto:raha.jawadi@gmail.com)**
 - 🔗 LinkedIn: **[rahela-jawadi](https://www.linkedin.com/in/rahela-jawadi-190537261/)**
 
@@ -50,8 +50,14 @@ Hi! I'm Rahela - someone who loves turning messy data into clear, useful stories
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rahelajawadi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahelajawadi&layout=compact&theme=tokyonight" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=rahelajawadi&show_icons=true&theme=tokyonight&hide_border=true"
+    height="170"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahelajawadi&layout=compact&theme=tokyonight&hide_border=true"
+    height="170"
+  />
 </p>
 
 ---
