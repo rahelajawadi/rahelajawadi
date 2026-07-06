@@ -9,7 +9,7 @@
 
 ### 🔭 About Me
 
-Hi! I'm Rahela - someone who loves turning messy data into clear, useful stories for meaningful data-driven decision making 😊
+Briefly, I'm someone who loves turning messy data into clear, useful stories for meaningful data-driven decision making 😊
 
 - 🌱 I enjoy building and delivering solutions with **data, statistics and machine learning techniques**, from deep learning models to interactive analytics dashboards.
 - 🧠 My work spans **statistical data analysis/visualization**, **data management**, **software/web development**, **computer vision (CNNs)**.
