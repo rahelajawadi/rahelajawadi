@@ -11,7 +11,7 @@
 
 Briefly, I'm someone who loves turning messy data into clear, useful stories for meaningful data-driven decision making 😊
 
-- 🌱 I enjoy building and delivering solutions with **data, statistics and machine learning techniques**, from deep learning models to interactive analytics dashboards.
+- 🌱 I enjoy building and delivering solutions with **data, statistics and machine learning/deep learning models, presenting my work through prototypes, production-grade apps, and interactive dashboards.
 - 🧠 My work spans **statistical data analysis/visualization**, **data management**, **software/web development**, **computer vision (CNNs)**.
 - 💬 Happy to chat about anything and everything related to **analytics, AI/ML, and emerging tech - always excited to learn more and collaborate.
 - 📫 Reach me anytime at **[raha.jawadi@gmail.com](mailto:raha.jawadi@gmail.com)**
