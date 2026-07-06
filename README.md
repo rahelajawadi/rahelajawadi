@@ -11,8 +11,8 @@
 
 Hi! I'm Rahela - someone who loves turning messy data into clear, useful stories for meaningful data-driven decision making 😊
 
-- 🌱 I enjoy building things with **data and machine learning**, from deep learning models to interactive analytics dashboards.
-- 🧠 My work spans **statistical analysis**, **computer vision (CNNs)**, **data visualization**, and **full-stack software projects**.
+- 🌱 I enjoy building and delivering solutions with **data, statistics and machine learning techniques**, from deep learning models to interactive analytics dashboards.
+- 🧠 My work spans **statistical data analysis/visualization**, **computer vision (CNNs)**, and **full-stack software projects**.
 - 💬 Happy to chat about **data analytics, AI/ML, emerging tech, Python, R, TensorFlow/Keras, Flask, Power BI, and data storytelling** — always excited to learn more and collaborate.
 - 📫 Reach me anytime at **[raha.jawadi@gmail.com](mailto:raha.jawadi@gmail.com)**
 - 🔗 LinkedIn: **[rahela-jawadi](https://www.linkedin.com/in/rahela-jawadi-190537261/)**
